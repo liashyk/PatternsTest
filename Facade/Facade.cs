@@ -14,6 +14,7 @@ namespace Facade
 		{
 			service = new VeryComplicatedService();
 		}
+
 		public void MakeOperation()
 		{
 			service.MakeComplicateThing();
