@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Adapter
 {
-	internal class CIrcle
+	internal class Circle
 	{
 		public double Radius { get; set; }
 		public string Color { get; set; }
