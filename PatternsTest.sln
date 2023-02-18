@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Proxy", "Proxy\Proxy.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iterator", "Iterator\Iterator.csproj", "{C804E4B7-971B-492E-B770-EDEE8D32573A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoR", "CoR\CoR.csproj", "{71F0583F-F4AE-4AE3-9037-22CB662E6233}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoR", "CoR\CoR.csproj", "{71F0583F-F4AE-4AE3-9037-22CB662E6233}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command", "Command\Command.csproj", "{04E4A864-D50D-4AC0-B510-0E64874FB62E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{71F0583F-F4AE-4AE3-9037-22CB662E6233}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71F0583F-F4AE-4AE3-9037-22CB662E6233}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71F0583F-F4AE-4AE3-9037-22CB662E6233}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04E4A864-D50D-4AC0-B510-0E64874FB62E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04E4A864-D50D-4AC0-B510-0E64874FB62E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04E4A864-D50D-4AC0-B510-0E64874FB62E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04E4A864-D50D-4AC0-B510-0E64874FB62E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
